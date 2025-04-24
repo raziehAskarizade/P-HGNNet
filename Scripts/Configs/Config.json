@@ -1,0 +1,11 @@
+{
+  "fa": {
+    "pipeline": "C:/Users/razieh/Downloads/cc.fa.300.bin"
+  },
+  "datasets": {
+    "digikala": {
+      "dataset": "data/DigiKala/data.csv"
+    }
+  },
+  "device": "cuda"
+}
